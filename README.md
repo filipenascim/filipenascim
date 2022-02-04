@@ -3,7 +3,7 @@
 - Desenvolvedor Front-end WEB
 - Atualmente estudando HTML, CSS e JAVASCRIPT
 
-# Contato
+## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-nascimento-3a01481a6)
 
